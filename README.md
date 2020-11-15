@@ -1,29 +1,29 @@
-# [Start Bootstrap - Heroic Features](https://startbootstrap.com/template/heroic-features/)
+# [Start Bootstrap - Landing Page](https://startbootstrap.com/themes/landing-page/)
 
-[Heroic Features](https://startbootstrap.com/template/heroic-features/) is a multipurpose HTML template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
+[Landing Page](https://startbootstrap.com/themes/landing-page/) is a multipurpose landing page template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
 ## Preview
 
-[![Heroic Features Preview](https://assets.startbootstrap.com/img/screenshots/templates/heroic-features.png)](https://startbootstrap.github.io/startbootstrap-heroic-features/)
+[![Landing Page Preview](https://startbootstrap.com/assets/img/screenshots/themes/landing-page.png)](https://startbootstrap.github.io/startbootstrap-landing-page/)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-heroic-features/)**
+**[View Live Preview](https://startbootstrap.github.io/startbootstrap-landing-page/)**
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-heroic-features/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-heroic-features.svg)](https://www.npmjs.com/package/startbootstrap-heroic-features)
-[![Build Status](https://travis-ci.org/StartBootstrap/startbootstrap-heroic-features.svg?branch=master)](https://travis-ci.org/StartBootstrap/startbootstrap-heroic-features)
-[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-heroic-features/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-heroic-features)
-[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-heroic-features/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-heroic-features?type=dev)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-landing-page/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-landing-page.svg)](https://www.npmjs.com/package/startbootstrap-landing-page)
+[![Build Status](https://travis-ci.org/StartBootstrap/startbootstrap-landing-page.svg?branch=master)](https://travis-ci.org/StartBootstrap/startbootstrap-landing-page)
+[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-landing-page/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-landing-page)
+[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-landing-page/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-landing-page?type=dev)
 
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
 
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template/heroic-features/)
-* Install via npm: `npm i startbootstrap-heroic-features`
-* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-heroic-features.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-heroic-features)
+* [Download the latest release on Start Bootstrap](https://startbootstrap.com/themes/landing-page/)
+* Install via npm: `npm i startbootstrap-landing-page`
+* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-landing-page.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-landing-page)
 
 ## Usage
 
@@ -35,11 +35,19 @@ After downloading, simply edit the HTML and CSS files included with the template
 
 After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
 
-You must have npm and Gulp installed globally on your machine in order to use these features.
+#### Gulp Tasks
+
+* `gulp` the default task that builds everything
+* `gulp watch` browserSync opens the project in your default browser and live reloads when changes are made
+* `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
+* `gulp js` minifies the themes JS file
+* `gulp vendor` copies dependencies from node_modules to the vendor directory
+
+You must have npm installed globally in order to use this build environment.
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-heroic-features/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/template/heroic-features/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-landing-page/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/themes/landing-page/).
 
 ## About
 
@@ -48,14 +56,14 @@ Start Bootstrap is an open source library of free Bootstrap templates and themes
 * <https://startbootstrap.com>
 * <https://twitter.com/SBootstrap>
 
-Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**.
 
-* <https://davidmiller.io>
-* <https://twitter.com/davidmillerhere>
+* <http://davidmiller.io>
+* <https://twitter.com/davidmillerskt>
 * <https://github.com/davidtmiller>
 
 Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
 ## Copyright and License
 
-Copyright 2013-2020 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-heroic-features/blob/gh-pages/LICENSE) license.
+Copyright 2013-2020 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-landing-page/blob/gh-pages/LICENSE) license.
