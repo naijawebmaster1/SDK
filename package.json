@@ -1,11 +1,11 @@
 {
-    "title": "Landing Page",
-    "name": "startbootstrap-landing-page",
-    "version": "5.0.8",
+    "title": "Heroic Features",
+    "name": "startbootstrap-heroic-features",
+    "version": "4.2.3",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "An HTML landing page template built with Bootstrap",
+    "description": "An HTML template with a hero heading and feature cards built with Bootstrap",
     "keywords": [
         "css",
         "sass",
@@ -14,36 +14,28 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/themes/landing-page",
+    "homepage": "https://startbootstrap.com/template/heroic-features",
     "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-landing-page/issues",
+        "url": "https://github.com/StartBootstrap/startbootstrap-heroic-features/issues",
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
     "author": "Start Bootstrap",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "David Miller (https://davidmiller.io/)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-landing-page.git"
+        "url": "https://github.com/StartBootstrap/startbootstrap-heroic-features.git"
     },
     "dependencies": {
-        "@fortawesome/fontawesome-free": "5.13.1",
-        "bootstrap": "4.5.0",
-        "jquery": "3.5.1",
-        "simple-line-icons": "^2.4.1"
+        "bootstrap": "4.5.3",
+        "jquery": "3.5.1"
     },
     "devDependencies": {
-        "browser-sync": "2.26.7",
-        "del": "5.1.0",
+        "browser-sync": "2.26.13",
+        "del": "6.0.0",
         "gulp": "4.0.2",
-        "gulp-autoprefixer": "7.0.1",
-        "gulp-clean-css": "4.3.0",
-        "gulp-header": "2.0.9",
-        "gulp-plumber": "^1.2.1",
-        "gulp-rename": "2.0.0",
-        "gulp-sass": "4.1.0",
         "merge-stream": "2.0.0"
     }
 }
